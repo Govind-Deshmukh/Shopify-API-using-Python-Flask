@@ -6,4 +6,4 @@ Write a code in any language to get all the products from the Shopify Store and 
 
 <h1>Output</h1>
 <img src="https://github.com/Govind-Deshmukh/Shopify-API-using-Python-Flask/blob/main/output/screenshot.png">
-<img src="https://github.com/Govind-Deshmukh/Shopify-API-using-Python-Flask/blob/main/output/screenshot2.png">
+<img src="https://github.com/Govind-Deshmukh/Shopify-API-using-Python-Flask/blob/main/output/screenshot1.png">
