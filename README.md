@@ -5,5 +5,5 @@ Write a code in any language to get all the products from the Shopify Store and 
 <h1>Then run python flask server</h1>
 
 <h1>Output</h1>
-![alt text](https://github.com/Govind-Deshmukh/Shopify-API-using-Python-Flask/blob/main/output/screenshot.png?raw=true)
-![alt text](https://github.com/Govind-Deshmukh/Shopify-API-using-Python-Flask/blob/main/output/screenshot2.png?raw=true)
+<img src="https://github.com/Govind-Deshmukh/Shopify-API-using-Python-Flask/blob/main/output/screenshot.png">
+<img src="https://github.com/Govind-Deshmukh/Shopify-API-using-Python-Flask/blob/main/output/screenshot2.png">
